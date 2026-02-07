@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/dekronite/Simple-fastfetch-dotfiles?style=social)
 
 Preview
-![Fastfetch Preview](image.png)
+![Fastfetch Preview](preview.png)
 
 ## How to use
 
