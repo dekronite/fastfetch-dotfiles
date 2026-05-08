@@ -1,7 +1,7 @@
 # Simple-fastfetch-dotfiles
-![GitHub Repo stars](https://img.shields.io/github/stars/dekronite/Simple-fastfetch-dotfiles?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/dekronite/Simple-fastfetch-dotfiles?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dekronite/Simple-fastfetch-dotfiles?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/dekronite/fastfetch-dotfiles?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/dekronite/fastfetch-dotfiles?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dekronite/Sfastfetch-dotfiles?style=social)
 
 Preview
 ![Fastfetch Preview](preview.png)
@@ -11,7 +11,7 @@ Preview
 Ensure git is installed, then paste this into your terminal:
 
 ```bash
-git clone https://github.com/dekronite/Simple-fastfetch-dotfiles ~/fastfetch-config && \
+git clone https://github.com/dekronite/fastfetch-dotfiles ~/fastfetch-config && \
 mkdir -p ~/.config/fastfetch && \
 cp ~/fastfetch-config/config.jsonc ~/.config/fastfetch/config.jsonc && \
 cp ~/fastfetch-config/image.png ~/.config/fastfetch/image.png
@@ -27,3 +27,5 @@ Notes;
 },
 ```
 You may need to play with width and height to make your image fit
+##NOTE FASTFETCH NEEDS A WIDTH TO CHANGE IMAGE SIZE. U
+SING HEIGHT ALONE WONT MAKE THE IMAGE FIT
