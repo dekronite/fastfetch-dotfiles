@@ -29,5 +29,5 @@ Notes;
 You may need to play with width and height to make your image fit
 
 
-__NOTE FASTFETCH NEEDS A WIDTH TO CHANGE IMAGE SIZE.__
-__USING HEIGHT ALONE WONT MAKE THE IMAGE FIT__
+__NOTE: FASTFETCH NEEDS A WIDTH TO CHANGE IMAGE SIZE.__
+__using height alone wont make the image size change__
