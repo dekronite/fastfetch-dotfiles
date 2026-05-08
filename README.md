@@ -1,12 +1,24 @@
-# Simple-fastfetch-dotfiles
-![GitHub Repo stars](https://img.shields.io/github/stars/dekronite/fastfetch-dotfiles?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/dekronite/fastfetch-dotfiles?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dekronite/fastfetch-dotfiles?style=social)
+
+<p align="center" style="margin-bottom:10px;margin-top:10px;"><a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a></p>
+
+<h2 align="center">
+ <b style="font-size:24px;line-height:24px;vertical-align:middle;"><i>fastfetch dotfiles</i></b>
+</h2>
+
+<p align=center style="margin-top:36px">	  
+  <img src="https://img.shields.io/github/stars/dekronite/fastfetch-dotfiles?color=dd864a&labelColor=202328&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/dekronite/fastfetch-dotfiles?color=82aaff&labelColor=202328&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/dekronite/fastfetch-dotfiles?color=bf616a&labelColor=202328&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues-pr/dekronite/fastfetch-dotfiles?color=c792ea&labelColor=202328&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/dekronite/fastfetch-dotfiles?color=15121C&labelColor=202328&style=for-the-badge">  
+</p>
 
 
-![Fastfetch Preview](preview.png)
+<p align="center">
+  <img src="preview.png" alt="Fastfetch Preview">
+</p>
 
-## How to use
+<h2 align="center">How to use?</h2>
 
 Ensure git is installed, then paste this into your terminal:
 
