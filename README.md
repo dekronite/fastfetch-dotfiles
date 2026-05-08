@@ -1,7 +1,7 @@
 # Simple-fastfetch-dotfiles
 ![GitHub Repo stars](https://img.shields.io/github/stars/dekronite/fastfetch-dotfiles?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/dekronite/fastfetch-dotfiles?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dekronite/Sfastfetch-dotfiles?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dekronite/fastfetch-dotfiles?style=social)
 
 
 ![Fastfetch Preview](preview.png)
