@@ -3,7 +3,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/dekronite/fastfetch-dotfiles?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/dekronite/Sfastfetch-dotfiles?style=social)
 
-Preview
+
 ![Fastfetch Preview](preview.png)
 
 ## How to use
